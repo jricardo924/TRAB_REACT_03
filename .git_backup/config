@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Trab_react_03_Ricardo"]
+	url = git@github.com:jricardo924/TRAB_REACT_03.git
+	fetch = +refs/heads/*:refs/remotes/Trab_react_03_Ricardo/*

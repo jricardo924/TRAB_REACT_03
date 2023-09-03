@@ -1,0 +1,24 @@
+.searchContainer {
+    width: 450px;
+    margin: 0 auto;
+
+}
+
+.searchContainer input,
+.searchContainer button {
+    font-size: 18px;
+}
+
+.searchContainer input {
+    border: 1px solid darkblue;
+    padding: 5px 10px;
+}
+
+.searchContainer button {
+    border: 0;
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 5px 10px   ;
+    background: darkblue;
+    color: white;
+}

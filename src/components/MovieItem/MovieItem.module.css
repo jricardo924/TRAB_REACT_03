@@ -1,0 +1,27 @@
+.movie {
+    text-align: center;
+    background: #ececec;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    max-width: 250px;
+
+}
+
+.movieFooter {
+    margin-top: 20px;
+}
+
+.movieFooter {
+    background: lightblue;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.movieFooter a:hover{
+    background: darkblue;
+    color: white;
+}
